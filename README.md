@@ -1,2 +1,2 @@
 # electron
-Simple implementation CQRS project
+Simple implementation of CQRS project
